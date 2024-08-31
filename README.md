@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mihir Rajpopat</h1>
 <h3 align="center">Crafting Seamless Mobile Experiences in Flutter & Android</h3>
 
